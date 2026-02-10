@@ -6,7 +6,8 @@ export default function Home() {
   const { t } = useTranslation();
 
   return (
-    <main className="flex flex-col items-center justify-center min-h-screen bg-[#ffffff] px-6 text-center">
+    // <main className="pt-28 px-6 max-w-4xl mx-auto pb-20">
+    <main className="pt-28 flex flex-col items-center justify-center min-h-screen bg-[#ffffff] px-6 text-center mx-auto pb-20">
       {/* Hero Section */}
       <h1 className="text-5xl md:text-6xl font-bold text-[#272727] mb-8">
         {t("home_title")}
