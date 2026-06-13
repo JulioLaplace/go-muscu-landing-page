@@ -8,7 +8,7 @@ const resources = {
       nav_home: "Home",
       nav_privacy: "Privacy Policy",
       nav_terms: "Terms of Service",
-      home_title: "Welcome to MyGymLog MyGymBro",
+      home_title: "Welcome to GymLog",
       home_subtitle: "Lift. Rest. Log. Repeat.",
       home_description:
         "Stay on top of your fitness journey with our app! Track every workout, log sets, reps, and weights, monitor your body measurements, and keep a record of your personal bests. Whether you’re aiming for strength, size, or overall fitness, our app helps you progress smarter and stay motivated.",
@@ -43,8 +43,8 @@ const resources = {
         "You have the right to access and correct your data. Since we prioritize privacy, you can manage most of this directly in your profile settings.",
       privacy_contact_title: "Contact",
       privacy_contact_desc:
-        "Questions or data deletion requests? Email us at: <span class='text-indigo-600 font-medium'>support@votreapp.com</span>",
-      effective_date: "<strong>Effective Date:</strong> Febuary 10, 2026",
+        "Questions or data deletion requests? Email us at: <span class='text-indigo-600 font-medium'>jules.laplace.treyture@gmail.com</span>",
+      effective_date: "<strong>Effective Date:</strong> June 14, 2026",
       terms_title: "Terms of Service",
       terms_acceptance_title: "Acceptance of Terms",
       terms_acceptance_desc:
@@ -74,7 +74,7 @@ const resources = {
       nav_home: "Accueil",
       nav_privacy: "Politique de confidentialité",
       nav_terms: "Conditions d’utilisation",
-      home_title: "Bienvenue sur MyGymLog MyGymBro",
+      home_title: "Bienvenue sur GymLog",
       home_subtitle: "Soulève. Repos. Enregistre. Répète.",
       home_description:
         "Reste au top de ton parcours fitness grâce à notre application ! Suis chaque entraînement, enregistre tes séries, répétitions et charges, surveille tes mensurations et garde une trace de tes records personnels. Que tu vises la force, la prise de masse ou une forme physique globale, notre app t’aide à progresser plus intelligemment et à rester motivé.",
@@ -109,9 +109,9 @@ const resources = {
         "Tu as le droit d’accéder à tes données et de les corriger. Comme nous accordons une grande importance à la confidentialité, tu peux gérer la majorité de ces éléments directement depuis les paramètres de ton profil.",
       privacy_contact_title: "Contact",
       privacy_contact_desc:
-        "Des questions ou une demande de suppression de données ? Écris-nous à : <span class='text-indigo-600 font-medium'>support@votreapp.com</span>",
+        "Des questions ou une demande de suppression de données ? Écris-nous à : <span class='text-indigo-600 font-medium'>jules.laplace.treyture@gmail.com</span>",
       effective_date:
-        "<strong>Date d’entrée en vigueur :</strong> 10 février 2026",
+        "<strong>Date d’entrée en vigueur :</strong> 14 juin 2026",
       terms_title: "Conditions d’utilisation",
       terms_acceptance_title: "Acceptation des conditions",
       terms_acceptance_desc:
