@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/go-muscu-landing-page/static/css/main.dceaec05.css",
+    "main.js": "/go-muscu-landing-page/static/js/main.86f53fb2.js",
+    "static/media/logo-icon-rounded.png": "/go-muscu-landing-page/static/media/logo-icon-rounded.b71b1f79915805806453.png",
+    "static/media/playstore-logo.png": "/go-muscu-landing-page/static/media/playstore-logo.e9252aed3e8fd7203c4c.png",
+    "index.html": "/go-muscu-landing-page/index.html",
+    "main.dceaec05.css.map": "/go-muscu-landing-page/static/css/main.dceaec05.css.map",
+    "main.86f53fb2.js.map": "/go-muscu-landing-page/static/js/main.86f53fb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dceaec05.css",
+    "static/js/main.86f53fb2.js"
+  ]
+}
