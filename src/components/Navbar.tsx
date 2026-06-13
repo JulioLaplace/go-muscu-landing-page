@@ -1,6 +1,6 @@
 import { NavLink, useLocation } from "react-router-dom";
 import { useEffect, useRef, useState } from "react";
-import Logo from "../images/logo 2-removeBG.png";
+import Logo from "../images/logo-icon-rounded.png";
 import { useTranslation } from "react-i18next";
 import LanguageSelector from "./LanguageSelector";
 import i18n from "../i18n";
