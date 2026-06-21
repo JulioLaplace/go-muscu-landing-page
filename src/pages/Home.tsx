@@ -30,11 +30,11 @@ export default function Home() {
           {t("download_ios")}
         </button>
 
-        {/* Play Store Button */}
-        <button className="flex items-center gap-2 bg-[#272727] text-white px-6 py-3 rounded-lg hover:bg-gray-900 transition-colors duration-300">
+        {/* Play Store Button — désactivé, pas encore disponible */}
+        {/* <button className="flex items-center gap-2 bg-[#272727] text-white px-6 py-3 rounded-lg hover:bg-gray-900 transition-colors duration-300">
           <img src={playStoreLogo} alt="Play Store" className="w-6 h-6" />{" "}
           {t("download_play_store")}
-        </button>
+        </button> */}
       </div>
     </main>
   );
