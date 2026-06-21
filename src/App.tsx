@@ -10,7 +10,7 @@ export default function App() {
       <Navbar />
 
       <Routes>
-        <Route path="/go-muscu-landing-page" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         <Route path="/terms-of-service" element={<TermsOfService />} />
       </Routes>
